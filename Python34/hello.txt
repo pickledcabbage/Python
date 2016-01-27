@@ -1,0 +1,7 @@
+6
+Cheese Enchiladas	$3.5	400.0
+Wet Burrito	$6.0	700.0
+Chile Relleno	$4.0	600.0
+Taco Salad	$4.0	400.0
+Beef Taco	$1.5	250.0
+Menudo	$5.0	750.0
